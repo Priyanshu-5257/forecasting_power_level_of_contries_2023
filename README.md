@@ -1,4 +1,4 @@
-# Forecasting power level of contries 2023 using LSTM
+# Forecasting power level of countries 2023 using LSTM
 ### A dataset with the power level and other features is given from 2008 to 2022, we have to forecast the power level of 2023.
 ## Library used Pandas, Numpy, Tensorflow
 ### LSTM concept is used
